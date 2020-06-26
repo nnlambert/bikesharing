@@ -6,7 +6,7 @@
 In doing the research and assembly of the story created about the New York citibike data, I made a few interesting discoveries. 
 The first of these discoveries relates to the density of McDonalds locations compared to citibike start and stop locations. 
 
-![image](Storyboard Images/Citibike Potential Analysis (6).png)
+![Storyboard Comparison Slide](./Storyboard Images/Citibike Potential Analysis (6).png) 
 
 The locations of a vast majority of starts and stops using the citibike were centered on the Manhattan area. Looking on the map, 
 there a number of reasonable tourist attractions concentrated in this area. It made sense that the majority of McDonald locations 
