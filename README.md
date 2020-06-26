@@ -3,7 +3,7 @@
 ### We will take things one step further by analyzing parks and their proximity to citibike usage
 
 #### Summary
-In doing the research and assembly of the story created about the New York citibikie data, I made a few interesting discoveries. 
+In doing the research and assembly of the story created about the New York citibike data, I made a few interesting discoveries. 
 The first of these discoveries relates to the density of McDonalds locations compared to citibike start and stop locations. 
 
 The locations of a vast majority of starts and stops using the citibike were centered on the Manhattan area. Looking on the map, 
